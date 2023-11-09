@@ -7,7 +7,7 @@
 
 ### Project Main Image :
 
-![MAIN PAGE](https://southportbid.com/wp-content/uploads/2020/07/Southport-Bid-2020-123.jpg)
+![MAIN PAGE](https://i.imgur.com/ZnKDBez.png)
 
 ### Wire Frame :
 
@@ -61,9 +61,7 @@
 ### Django RestFramework : https://www.django-rest-framework.org/ and follow there documentation
 ### Postgres Sql : https://www.postgresql.org/download/macosx/ and follow there documentation
 
-### USAGE:
-
-### In this Application user would be able to create @ manage a Plan. This application works with full crud (create,read,update,delete)functionality. where user can create a new plan with a subject and details with date and time feilds are also provided for the convenience of the end user. This App is useful because in this App,  to create a plan is simple and time saving.   
+  
 
 ### CONTACT INFO:
 
